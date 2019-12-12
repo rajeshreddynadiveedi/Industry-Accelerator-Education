@@ -10,6 +10,7 @@
   <AppModuleComponents>
     <AppModuleComponent type="62" schemaName="mshied_HigherEd" />
     <AppModuleComponent type="60" id="{ed828b48-04df-e911-a968-000d3a3b9825}" />
+    <AppModuleComponent type="60" id="{3014578f-4606-ea11-a811-000d3a8c9f8b}" />
     <AppModuleComponent type="60" id="{10a86981-28ce-e811-a967-000d3a1c53e4}" />
     <AppModuleComponent type="1" schemaName="mshied_academicperiod" />
     <AppModuleComponent type="1" schemaName="mshied_academicperioddetails" />
